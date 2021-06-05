@@ -1,0 +1,16 @@
+{
+  "name": "weekly_sales_report_icecream",
+  "version": "1.0.0",
+  "description": "An ice cream shop wants a weekly sales report. To do this, you must capture in a system all the sales notes made. Each note contains the quantity and flavor of the popsicles sold. The system must print the number of pallets sold of each flavor, their amount and the total sale. Consider that a note can have several different flavored palettes.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/weekly_sales_report_icecream"
+  },
+ 
+  "keywords": ["js","javascript","calculation","icecream","calculate","pallets","sale"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
